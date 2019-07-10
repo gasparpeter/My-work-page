@@ -1,0 +1,24 @@
+
+.welcome {
+    text-align: center;
+    font-size: 40px;
+    margin-top: 15px;
+}
+
+html {
+    background-color: #b3d4fc;
+}
+
+.projects {
+    align-items: center;
+    display: block;
+    /*background-color: #1c7430;*/
+    margin: 150px 300px 150px 300px
+}
+
+.btns {
+    width: 150px;
+    height: 150px;
+    margin: 10px;
+    align-items: center;
+}
