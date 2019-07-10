@@ -22,3 +22,33 @@ html {
     margin: 10px;
     align-items: center;
 }
+
+#weather {
+    background-image: url("https://images-eu.ssl-images-amazon.com/images/I/41wkG24yDkL.png");
+    background-size: 100%;
+}
+
+#piano {
+    background-image: url("https://cdn3.vectorstock.com/i/1000x1000/37/42/piano-logo-graphic-design-template-vector-23103742.jpg");
+    background-size: 100%;
+}
+
+#music {
+    background-image: url("https://res.cloudinary.com/teepublic/image/private/s--yOR84SFC--/t_Resized%20Artwork/c_fit,g_north_west,h_954,w_954/co_191919,e_outline:48/co_191919,e_outline:inner_fill:48/co_ffffff,e_outline:48/co_ffffff,e_outline:inner_fill:48/co_bbbbbb,e_outline:3:1000/c_mpad,g_center,h_1260,w_1260/b_rgb:eeeeee/c_limit,f_jpg,h_630,q_90,w_630/v1515273371/production/designs/2259350_1.jpg");
+    background-size: 100%;
+}
+
+#meditation {
+    background-image: url("https://cdn5.vectorstock.com/i/1000x1000/82/19/leaf-nature-yoga-meditation-logo-vector-15818219.jpg");
+    background-size: 100%;
+}
+
+#bookmaker {
+    background-image: url("https://cdn1.vectorstock.com/i/1000x1000/03/35/open-book-logo-education-vector-19230335.jpg");
+    background-size: 100%;
+}
+
+#booklist {
+    background-image: url("https://img.freepik.com/darmowe-wektory/ilustracja-schowka-lista-kontrolna_53876-43946.jpg?size=338&ext=jpg");
+    background-size: 100%;
+}
