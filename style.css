@@ -13,7 +13,7 @@ html {
 .projects {
     position: absolute;
     align-items: center;
-    display: block;
+    display: none;
     /*background-color: #1c7430;*/
     /*margin: 150px 300px 150px 300px*/
     margin-top: 400px;
@@ -58,4 +58,20 @@ html {
 #booklist {
     background-image: url("https://img.freepik.com/darmowe-wektory/ilustracja-schowka-lista-kontrolna_53876-43946.jpg?size=338&ext=jpg");
     background-size: 100%;
+}
+
+.myProjects {
+    width: 200px;
+    height: 170px;
+    font-size: 30px;
+    margin: 150px 150px;
+    display: inline-block;
+}
+
+.contact {
+    width: 200px;
+    height: 170px;
+    font-size: 30px;
+    margin: 150px 150px;
+    display: inline-block;
 }
