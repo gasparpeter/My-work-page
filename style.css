@@ -7,7 +7,7 @@
 }
 
 html {
-    background-image: linear-gradient(#403075, #3b334c);
+    background-image: linear-gradient(#1e6975, #18334c);
 }
 
 .projects {
@@ -61,17 +61,23 @@ html {
 }
 
 .myProjects {
-    width: 200px;
-    height: 170px;
+    background-image: url("https://www.openkm.com/resources/images/icon/document-management-big.png");
+    background-size: 90%;
+    border-radius: 200px;
+    width: 270px;
+    height: 250px;
     font-size: 30px;
-    margin: 150px 150px;
+    margin: 150px 50px 150px 400px;
     display: inline-block;
 }
 
 .contact {
-    width: 200px;
-    height: 170px;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqhERpErZKCNoISigZAxuYtmPRsrXlMGRYBGjRp4MnipMHC4yv");
+    background-size: 100%;
+    border-radius: 200px;
+    width: 270px;
+    height: 250px;
     font-size: 30px;
-    margin: 150px 150px;
+    margin: 150px 50px 150px 400px;
     display: inline-block;
 }
